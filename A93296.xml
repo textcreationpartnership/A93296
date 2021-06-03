@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Thomas Fairfax his victorious proceedings in the taking of Launceston, with the magazine and armes. The enemy driven from Taverton-bridge and the rest of their passages upon Tamar, three hundred horse taken, and Major-Generall Webb routed, and the enemy fled and dispersed to severall parts in Cornwall. With a list of the particulars thereof. Also how prince Rupert entred Abbington, and was beaten out againe on Munday March the second, and the particulars thereof, and how many we slew, Ruperts forces being quite beaten out of Abbington. All which is confirmed by severall letters. Published by authority.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93296</idno><idno type="EEBO-CITATION">99861331</idno>
+  <idno type="VID">113464</idno>
+  <idno type="EEBO-PROQUEST">2240882447</idno>
+  
+            <idno type="STC">Wing S3894</idno>
+            <idno type="STC">Thomason E325_26</idno>
+            <idno type="STC">ESTC R200643</idno>
+            <idno type="PROQUEST">99861331</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861331e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93296)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113464)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E325[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Thomas Fairfax his victorious proceedings in the taking of Launceston, with the magazine and armes. The enemy driven from Taverton-bridge and the rest of their passages upon Tamar, three hundred horse taken, and Major-Generall Webb routed, and the enemy fled and dispersed to severall parts in Cornwall. With a list of the particulars thereof. Also how prince Rupert entred Abbington, and was beaten out againe on Munday March the second, and the particulars thereof, and how many we slew, Ruperts forces being quite beaten out of Abbington. All which is confirmed by severall letters. Published by authority.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Matthew Walbancke,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>4 March 1645. [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing has publication year 1645[6]; Thomason catalogue lists under 1646.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term type="personal_name">Rupert, --  Prince, Count Palatine, 1619-1682 --  Early works to 1800.</term>
+               <term type="geographic_name">Launceston (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113464:1"/>
+            <pb facs="tcp:113464:1"/>
+            <p>Sir Thomas Fairfax HIS Victorious proceedings in the taking of LAUNCESTON, with the Magazine and Armes.</p>
+            <p>The Enemy driven from Taverton-bridge and the rest of their passages upon Tamar, three hundred Horse taken, and Major-Generall <hi>Webb</hi> routed, and the Enemy fled and dispersed to severall parts in Cornwall.</p>
+            <p>With a List of the particulars thereof.</p>
+            <p>Also how Prince RUPERT entred ABBINGTON, And was beaten out againe on Munday March the second, and the particulars thereof, and how many we slew, <hi>Ruperts</hi> Forces being quite beaten out of <hi>Abbington.</hi>
+            </p>
+            <p>All which is confirmed by severall Letters.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Published by Authority.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> printed for <hi>Matthew Walbancke,</hi> 4 March 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113464:2"/>
+            <pb n="3" facs="tcp:113464:2"/>
+            <head>The Copy of a Letter sent from an officer of Sir <hi>Thomas Fairfax</hi> his Army.</head>
+            <opener>
+               <salute>SIR:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Generall having (as I acquainted you in my last) left Col. <hi>Cooke</hi> with a thousand Horse and 500. Foot to block up Barnsta<g ref="char:EOLhyphen"/>ble, according to the unanimous resoluti<g ref="char:EOLhyphen"/>on of the Counsell of Warre, advanced Tuesday last with the Army from Bier<g ref="char:EOLhyphen"/>ford, Torrington, and Stevenston towards Holsworthy; In the way there was a Generall Randezvouz of Horse and Foot on Stebber-downe: all this day no Parties of the Enemy appeared, the day was very rainy, which fell all the time of the March without intermission, and the waies extraordinary deep and bad; at the comming of the Army into Holsworthy the Townesmen shewed much cheerful<g ref="char:EOLhyphen"/>nesse, as being glad they should be rid of the enemy, who had absolutely impoverished that poore Towne, and left neither mans meat nor Horse meat; here we understood that Captaine <hi>Huggins,</hi> who was sent forth upon a Party the night before, had falne into the Enemies Quarters a mile and halfe in Cornwall, taken 24. Horse and severall Prisoners; Wednesday February 25. in the morning the Army advan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed from Holsworthy towards Launceston, a generall Randezvouz upon Hornecute Downe, where we had advertisement that Col. <hi>Butler</hi> who was sent forth
+<pb n="4" facs="tcp:113464:3"/> with a Party of 1000. Horse (the night before) and 400 Dragoons to beate up the Enemies Quarters, had done it effectually neare Shatton; first passing the River Tama<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, (where the Enemy had raised a Breast-work, and likewise pulled downe the Bridge to stop our passage) afterwards forst both Horse and Foot to retreat to their Guards, and from thence to the place appointed in case of Alarm, where after severall charges the Enemy were put to flight, neare 300. Horse, and 80. Prisoners taken, and about 40. slaine on the place; most of the men escap't by reason of the darke<g ref="char:EOLhyphen"/>nesse of the night, and eagernesse of our men after Booty. The Enemies Horse being about 800. were commanded by Major Gen. <hi>Webb,</hi> who with the rest of his Commanders and Horse were put to a disorderly retreat, and likewise an Alarm given them on the North side of Cornwall▪ which made them draw their Horse back. In our m<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch on W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<g ref="char:EOLhyphen"/>nesday the inclosed Proclamation was read in the head of every Regiment, being an addition to that I sent you for<g ref="char:EOLhyphen"/>merly; when we came within two miles of Launceston our forces took divers of the Enemies Scouts, and some strag<g ref="char:EOLhyphen"/>ling Parties, who were most of them drunk; those who were best able to expresse themselves boasted, That Col. <hi>Basset</hi> was <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esolved to maintaine the Town against our Forces; whereupon our forlorn hopes of Horse and Foot were sent to enforce entrance, the Enemy having shut the Gate, and the Towne very strong, made some opposition, but Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Basset</hi> Generall of the Horse, and Col. <hi>Blits</hi> Governour of the Towne, with Col. <hi>Srevaticans</hi> Regiment of Foot, in all about 500. Horse and Foot, having quitted the Towne about an houre before we came, and left it onely to some few of the Trained Bands, they after some resistance re<g ref="char:EOLhyphen"/>treated; our men entred, tooke some Prisoners, and killed onely two, it being now dark the rest escaped: we seized
+<pb n="5" facs="tcp:113464:3"/> upon the Armes and Magazine in the Towne, the inhabi<g ref="char:EOLhyphen"/>tants seemed generally to be much revived at our com<g ref="char:EOLhyphen"/>ming, being sensible that they were formerly but deluded with the blandishments of the Kings Party, pretending what they did was in defence of the King, when indeed it was chiefly to the destruction of the Subject. Our Sould<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers notwithstanding the opposition they received at the en<g ref="char:EOLhyphen"/>trance, did not then nor since plunder any one house that I know of, but demeaned themselves very civilly, so that our courtesie is likely to have a more powerfull influence upon the Cornish then the Enemies cruelty; besides, the Enemies talke much of the landing of Irish and French Forces, which the inhabitants cannot endure to heare of. The Gentlemen of this County that were sent unto to Plimouth are to mor<g ref="char:EOLhyphen"/>row at night to meet the Generall in this Towne, where it will be necessary to refresh both Horse and Foot with that small pittance which is to be had, yesterdayes march being about 13. long miles was as tedious (respecting the badnesse of the waies and weather) as any they had. The Prince is in Bodman, where most of the Horse and Foot he hath are quartered, or neer about it. The Generall will lose no time to clear the County of the Enemy, having had so good and prosperous a beginning, and to use all meanes possible to prevent their breaking through, which (in point of policy) is probable will be their chiefe endeavour. The Lord of Hosts, the Great Counsellour direct your Counsells, and this Armies undertakings, that the issue may be the settle<g ref="char:EOLhyphen"/>ment of Truth and Peace to this distracted Kingdom. Sir, I remaine</p>
+            <closer>
+               <dateline>Launcester, <date>Feb. 25. 1645.</date> at one at night.</dateline>
+               <signed>Your most humble Servant. W. C.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:113464:4"/>
+            <head>The Copie of a Letter sent to a Member of the House of Commons.</head>
+            <opener>
+               <salute>SIR;</salute>
+            </opener>
+            <p>U<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on Tuesday the Generall began his march with the Army from Bierford, and part from Torrington, and quartered that night at Holsworthy, being 12 miles from one place, and 15 miles from the other, an extraordinary rainy day, and waies extraordinary deepe. Wednesday the 25 we advanced from Holsworthy to Launceston, being ten long miles, that the Enemy might be the more amazed at the Armies entring of Cornwall; Colonell <hi>Butler</hi> was sent from Holsworthy, with a party of 1000 Horse and 400 Dra<g ref="char:EOLhyphen"/>goones, on Tuesday night as far as Stratton in Cornwall, to beate up the Enemies Quarters, and accordingly that night he passed the River, where the Enemy had raised up a Brest Work at Tamarton bridge, and broke downe the Bridge to hinder our passage over, but presently quit the passage, wher<g ref="char:EOLhyphen"/>upon he forced the Horse as well as Foot, that kept Guard, to retreate to their other Guards, and from thence to the place appointed for their drawing together upon an Alarm, where he charged their Horse severall times: at last it plea<g ref="char:EOLhyphen"/>sed God to put the Enemy to the flight, he took about 300. Horse and 80. Prisoners, he had more prisoners and some of quality, but the Souldiers minding their prey and booty in Horses, many of the prisoners escaped, this party of Horse of the Enemies being about 800. that lay to keep Guard upon the River Tamar, was commanded by Major Gene<g ref="char:EOLhyphen"/>rall <hi>Webb,</hi> who with the rest of the Commanders, were put to a disorderly Retreate, with the rest of their Horse; which gave them such an Alarm towards the North parts of Corn<g ref="char:EOLhyphen"/>wall, that it forced them to draw their Horse back, the rest
+<pb n="7" facs="tcp:113464:4"/> of the Army marching to Launc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ston, which amazed them likewise on the left hand, that if their intentions were for breaking through, they could not tell what resolutions to take. When we came within two miles of Launceston, we met with their Scouts, having taken severall of them, we understood that Colonell <hi>Basset</hi> with Horse and Foote was resolved to keep Launceston, and not to permit our entrance into the same; whereupon the Forlorn Hope of Horse and Foot were sent to force entrance into the Towne; the Ene<g ref="char:EOLhyphen"/>my shut the Gates, made some opposition, but at last quit the Town, and that disorderly; we took some Prisoners and killed some two of them; night being come on, the rest escaped in the dark; the Arms and Magazine in the Town we seized upon; we finde the Country, and particularly the place, to expresse much joy at our coming, though they were made believe by the Enemy, that the Army would give no Quarter to any Cornishman or woman, which they did for the most part believe, and was the cause of a great terrour upon them: but our Souldiers, notwithstanding the opposition they had at their entring of Launceston, did not so much as plunder any one house, nor do any other preju<g ref="char:EOLhyphen"/>dice to the Towne, that we can heare of, but I hope will so demean themselves in pursuance of the Generals Proclama<g ref="char:EOLhyphen"/>tion, as we shall conquer the Cornish sooner by our civility then by the Sword. Thus far into Cornwall it pleaseth God to prosper things with us; and I hope when we come more into the heart of the Country, we shall not finde so many Enemies as friends. Very speedily you shall receive a ful<g ref="char:EOLhyphen"/>ler accompt from</p>
+            <closer>
+               <dateline>Launcester, <date>the 26. of Febr. 1645.</date> about nine a clock in the morning.</dateline>
+               <signed>your humble Servant. J. R.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="8" facs="tcp:113464:5"/>
+            <head>POSTSCRIPT.</head>
+            <p>THe Horse and Foot have been put to hard duty upon the march, and Guards, and going out upon parties, so that I beleeve we shall not heare this day, and then according to such Information and Intelligence as we shall receive more further West. The Gentlemen of Cornwall that were at Plymoth, are to be here to morrow night, whose advice may contribute much in the further or<g ref="char:EOLhyphen"/>dering of the Affairs in these parts. I forgot to acquaint you that Captaine <hi>Woogan</hi> on Tuesday morning fell upon a Guard the Enemy kept in Cornwall, and took between 20 and 30 horse. Likewise when we came neere Tamerton bridge, the Cornish Trained Bands that were appointed to keep the passage, upon the appearing of our men, cryed unto them, <hi>Pray you doe not come neere, for if you do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, we are commanded to shoot you.</hi> But our men no sooner presented their Muskets to give fire, but both Officers and Souldiers ran away. The Country is much in<g ref="char:EOLhyphen"/>censed against <hi>Gorings</hi> Horse; and already, not only at this place, but at other places in Cornwall, durst not keept Markets, which makes our Army be more acceptable to them.</p>
+            <div type="part">
+               <head>A List of the Prisoners taken by Sir <hi>Thomas Fairfax</hi> Forces in Cornwall.</head>
+               <p>TAverton bridge taken. The Passages on Tamar quit. Major Ge<g ref="char:EOLhyphen"/>nerall <hi>Webb</hi> routed 300 Horse taken, 88 Prisoners 800 fled and scattered. Launcestor taken with the Magazine, two slaine and many wounded. Divers Prisoners taken and many Armes. Twenty odde horse taken of their Guard by Captain <hi>Woogan,</hi> and the Enemy fled and dispersed to severall parts in Cornwall.</p>
+               <p>MAjor Generall <hi>Browne</hi> received a Letter from <hi>Reading,</hi> the substance thus; That there were Messengers sent from thence to <hi>Abbington,</hi> who upon their returne assures them that <hi>Abbington</hi> is safe and the Enemy beaten out; <hi>Rupert</hi> came against them on M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>day the 2 of March 1645. with a great strength, and about five a clock in the morning entred the Works at the Abbey, took the Abbey Works, the Spur Works, and the other Works, and some Ordnance and Armes, and marched up towards the Market place, where was our main Guard, but was repulsed by Major <hi>Blundell</hi> and some horse, who opposed them till Major Generall <hi>Browns</hi> men got up, some in their shirts, some in their breeches, some with<g ref="char:EOLhyphen"/>out hose or shoes, fell on the Enemy with such violence, that they drave <hi>Ruperts</hi> Forces back, beat them out of the Town and Works, and drave them quite out of <hi>Abbington,</hi> about nine of them being slain, and many wounded, and well was he could get first out of the Towne.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
